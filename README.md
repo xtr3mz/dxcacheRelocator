@@ -1,2 +1,4 @@
 # dxcacheRelocator
-relocate dxcache folder to somewhere else
+Relocate the DXCache folder to wherever you like.
+
+![img](./screenshot.gif)
